@@ -1,6 +1,6 @@
 # 实现一个调度的简易功能：
 
-<img src="C:\Users\97975\Desktop\He_practice_demo1\功能梗概.jpg" style="zoom:80%;" />
+<img src="./功能梗概.jpg" style="zoom:80%;" />
 
 ##### 	实现两个对象：`node`和`scheduler`；
 
